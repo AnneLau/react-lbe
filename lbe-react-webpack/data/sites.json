@@ -1,0 +1,62 @@
+{
+	"errno": 0,
+	"data": [
+		{
+			"site": "http://parallelspace-app.com/index.php",
+			"title": "LBE平行空间",
+			"subTitle": "社交和游戏分身",
+			"detail": "同时登录，同时在线"
+		},
+		{
+			"site": "#/products/1",
+			"title": "LBE加速大师",
+			"subTitle": "全面加速和省电",
+			"detail": "真正的实力派，小巧却有大用处"
+		},
+		{
+			"site": "#/products/2",
+			"title": "LBE安全大师",
+			"subTitle": "手机使用好帮手",
+			"detail": "经典之作，权威的存在"
+		},
+		{
+			"image": "ball",
+			"title": "技术先锋",
+			"detail1": "全球首创安卓应用权限管理；",
+			"detail2": "建立全球最大的安卓应用行为云；",
+			"detail3": "构建全球首个安卓虚拟系统引擎MultiDroid"
+		},
+		{
+			"image": "users",
+			"title": "海量用户",
+			"detail1": "截至2015年底，LBE已获得2.8亿用户的",
+			"detail2": "青睐，月活跃用户超过5000万，覆盖全球",
+			"detail3": "100多个国家"
+		},
+		{
+			"image": "invest",
+			"title": "战略联盟",
+			"detail1": "LBE已先后获得了腾讯、阿里巴巴、小米公司",
+			"detail2": "的战略投资，并与小米、魅族、TCL、一加、",
+			"detail3": "美图等知名手机品牌建立深度合作"
+		},
+		{
+			"image": "161102_01.png",
+			"site": "http://www.morketing.com/posts/2227",
+			"title": "LBE科技 张勇：转型1年不到5000万用户",
+			"detail": "“我们在海外没有竞争对手。”LBE科技CEO张勇这样说。他指的是“LBE平行空间”这款产品,它是一款双开软件,可供用户在同一个社交或者游戏应用里,同时登陆两个账号。"
+		},
+		{
+			"image": "161102_2.png",
+			"site": "http://news.163.com/16/1027/20/C4DMFKT2000187VE.html",
+			"title": "LBE平行空间荣获Facebook营销成功案例",
+			"detail": "LBE科技全球化战略已取得良好战绩，短短半年多时间其产品就覆盖了100多个国家的超5000万用户。日前LBE科技被社交巨头Facebook评选为全球营销成功案例。"
+		},
+		{
+			"image": "161221_3.jpg",
+			"site": "http://news.163.com/16/1123/19/C6J4OF2Q00014SEH.html",
+			"title": "《福布斯》推荐LBE平行空间 中国APP再获关注",
+			"detail": "全球权威财经媒体《福布斯》发表文章，重点推荐了一款来自中国的移动应用：Parallel Space(国内版为“LBE平行空间”)。"
+		}
+	]
+}
